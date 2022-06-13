@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @lixx07
+  * sobre mim  
+    
+  * 👋 Hi, I’m @lixx07
 - 👀 I’m interested in ...nada
 - 🌱 I’m currently learning ...como entrar no github
 - 💞️ I’m looking to collaborate on ...nada no momento
